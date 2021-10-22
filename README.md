@@ -15,7 +15,7 @@
 | `Grading Students` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Grading%20Students) | Easy | [Problem](https://www.hackerrank.com/challenges/grading?isFullScreen=true)|
 | `Apple and Orange` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Apple%20and%20Orange) | Easy | [Problem](https://www.hackerrank.com/challenges/apple-and-orange?isFullScreen=true)|
 | `Number Line Jumps` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Number%20Line%20Jumps) | Easy | [Problem](https://www.hackerrank.com/challenges/kangaroo?isFullScreen=true)|
-|`Between Two Sets` | [Not Available]() | Easy | [Problem](https://www.hackerrank.com/challenges/between-two-sets?isFullScreen=true)|
+|`Between Two Sets` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Between%20Two%20Sets) | Easy | [Problem](https://www.hackerrank.com/challenges/between-two-sets?isFullScreen=true)|
 | `Breaking The Records` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Breaking%20the%20Records) | Easy | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records?isFullScreen=true)|
 | `Subarray Division` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Subarray%20Division) | Easy | [Problem](https://www.hackerrank.com/challenges/the-birthday-bar?isFullScreen=true)|
 | `Divisible Sum Pairs` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Divisible%20Sum%20Pairs) | Easy | [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs?isFullScreen=true)|
