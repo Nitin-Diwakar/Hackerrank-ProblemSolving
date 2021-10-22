@@ -1,0 +1,28 @@
+Approach 1:
+----------
+def getMoneySpent(keyboards, drives, b):
+    spent = []
+    for i in keyboards:
+        for j in drives:
+            if i+j <= b:
+                spent.append(i+j)
+    if len(spent) > 0:
+        return sorted(spent)[-1]
+    else:
+        return -1
+
+
+
+
+Approach 2:
+-----------
+def getMoneySpent(keyboards, drives, b):
+    Max = 0
+    for i in keyboards:
+        for j in drives:
+            if i+j <=b and i+j > Max:
+                Max = i+j
+    if Max:
+        return Max 
+    else:
+         return '-1'
