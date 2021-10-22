@@ -29,4 +29,6 @@
 |`Picking Numbers` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Picking%20Numbers) | Easy | [Problem](https://www.hackerrank.com/challenges/picking-numbers?isFullScreen=true)|
 | `Icecream Parlor` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Ice%20Cream%20Parlor) | Easy | [Problem](https://www.hackerrank.com/challenges/icecream-parlor?isFullScreen=true)|
 |`Missong Numbers` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Missing%20Numbers) | Easy | [Problem](https://www.hackerrank.com/challenges/missing-numbers?isFullScreen=true)|
+| `The Hurdle Race` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/The%20Hurdle%20Race) | Easy | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=false)|
 | `The Time in Words` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Time%20Conversion) | Medium | [Problem](https://www.hackerrank.com/challenges/the-time-in-words?isFullScreen=true)|
+
