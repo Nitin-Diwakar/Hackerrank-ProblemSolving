@@ -32,5 +32,8 @@
 | `The Hurdle Race` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/The%20Hurdle%20Race) | Easy | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=false)|
 | `Designer PDF` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Designer%20PDF)| Easy | [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=false&h_r=next-challenge&h_v=zen)|
 |`Utopian Tree` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Utopian%20Tree) | Easy | [Problem](https://www.hackerrank.com/challenges/utopian-tree/problem)|
+|`Angry Professor` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Angry%20Professor) | Easy | [Problem](https://www.hackerrank.com/challenges/angry-professor/problem)|
+| `Beautiful Days at the Movies`| [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Beautiful%20Days%20at%20the%20Movies)| Easy | [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true)|
+|`Circular Array Rotation`| [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Circular%20Array%20Rotation)| Easy | [Problem](https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=false)
 | `The Time in Words` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Time%20Conversion) | Medium | [Problem](https://www.hackerrank.com/challenges/the-time-in-words?isFullScreen=true)|
 
