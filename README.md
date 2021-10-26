@@ -36,4 +36,5 @@
 | `Beautiful Days at the Movies`| [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Beautiful%20Days%20at%20the%20Movies)| Easy | [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true)|
 |`Circular Array Rotation`| [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Circular%20Array%20Rotation)| Easy | [Problem](https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=false)
 | `The Time in Words` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Time%20Conversion) | Medium | [Problem](https://www.hackerrank.com/challenges/the-time-in-words?isFullScreen=true)|
+|`Greedy Florist`|[Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Greedy%20Florist)| Medium | [Problem](https://www.hackerrank.com/challenges/greedy-florist/problem?isFullScreen=true)|
 
