@@ -38,5 +38,5 @@
 |`Equal Stacks` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Equal%20Stacks) | Easy | [Problem](https://www.hackerrank.com/challenges/equal-stacks/problem?isFullScreen=true)| 
 | `The Time in Words` | [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Time%20Conversion) | Medium | [Problem](https://www.hackerrank.com/challenges/the-time-in-words?isFullScreen=true)|
 |`Greedy Florist`|[Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Greedy%20Florist)| Medium | [Problem](https://www.hackerrank.com/challenges/greedy-florist/problem?isFullScreen=true)|
-|`Balanced Brackets`| [Click here]() | Medium| [Problem](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Equal%20Stacks)|
+|`Balanced Brackets`| [Click here](https://github.com/Nitin-Diwakar/Hackerrank-ProblemSolving/blob/master/Balanced%20Brackets) | Medium| [Problem](https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=true)|
 
